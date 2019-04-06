@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 heyya
-hello
-=======
->>>>>>> parent of 18e9774... heyy
+hell
 nckdj
 djfdkj
 vfgfg
